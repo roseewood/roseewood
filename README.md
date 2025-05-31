@@ -67,3 +67,6 @@
     <h2>GitHub Trophies</h2>
       <img src="https://github-profile-trophy.vercel.app/?username=roseewood&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;"/>
 </div>
+
+<br>
+<br>
