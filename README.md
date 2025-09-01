@@ -37,7 +37,7 @@
 <table>
     <tr>
        <td><strong>Programming Languages</strong></td>
-       <td><img height=40 src = "https://skillicons.dev/icons?i=javascript,c,cpp,python&theme=dark"></td>
+       <td><img height=40 src = "https://skillicons.dev/icons?i=javascript,c,cpp,python,java&theme=dark"></td>
     </tr>
      <tr>
         <td><strong>Frontend Libraries</strong></td>
