@@ -75,6 +75,7 @@
 <h2 align="center">🏆 Open Source Programs & Badges</h2>
 
 <h3>Hacktoberfest 2025</h3>
+<hr>
 
 [![An image of @roseewood's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/roseewood)](https://holopin.io/@roseewood)
 
@@ -92,4 +93,5 @@
 <div align="center">
    <h3>🤗 Thanks for visiting! Feel free to explore my repositories and follow me if you're interested in my work.</h3>
 </div>
+
 
