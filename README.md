@@ -68,7 +68,14 @@
       <img src="https://github-profile-trophy.vercel.app/?username=roseewood&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;"/>
 </div>
 
+<hr> <hr>
+
 <br>
+
+<h2 align="center">🏆 Open Source Programs & Badges</h2>
+
+[![An image of @roseewood's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/roseewood)](https://holopin.io/@roseewood)
+
 <br>
 
 <div align="center">
