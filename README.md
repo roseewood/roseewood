@@ -74,6 +74,13 @@
 
 <h2 align="center">🏆 Open Source Programs & Badges</h2>
 
+<h3>Postman API Fundamentals Student Expert</h3>
+<hr>
+
+<div align="center">
+<img src="Badges/Postman API Fundamentals Student Expert - Badge.png" height="225px" breadth="" alt="Badge">
+</div>
+
 <h3>Hacktoberfest 2025</h3>
 <hr>
 
