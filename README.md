@@ -78,7 +78,7 @@
 <hr>
 
 <div align="center">
-<img src="Badges/Postman API Fundamentals Student Expert - Badge.png" height="225px" breadth="" alt="Badge">
+<img src="Badges/Postman API Fundamentals Student Expert - Badge.png" height="215px" breadth="" alt="Badge">
 </div>
 
 <h3>Hacktoberfest 2025</h3>
@@ -100,5 +100,6 @@
 <div align="center">
    <h3>🤗 Thanks for visiting! Feel free to explore my repositories and follow me if you're interested in my work.</h3>
 </div>
+
 
 
